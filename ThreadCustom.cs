@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace MABIS.Services.Dispatch.Whatsapp.WindowsService.Common
+namespace Common
 {
     public class ThreadCustom
     {
